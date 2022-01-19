@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Animais>
+    <Lista1>
+        <Especie>Tucano</Especie>
+        <Classe>Ave</Classe>
+        <Dieta>Omnívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista1>
+    <Lista2>
+        <Especie>Jaguar</Especie>
+        <Classe>Mamífero</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Quase ameaçada</Status>
+    </Lista2>
+    <Lista3>
+        <Especie>Capivara</Especie>
+        <Classe>Mamífero</Classe>
+        <Dieta>Herbívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista3>
+    <Lista4>
+        <Especie>Anaconda</Especie>
+        <Classe>Réptil</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista4>
+    <Lista5>
+        <Especie>Piranha</Especie>
+        <Classe>Peixe</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista5>
+    <Lista6>
+        <Especie>Boto-cor-de-rosa</Especie>
+        <Classe>Mamífero</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Ameaçada</Status>
+    </Lista6>
+    <Lista7>
+        <Especie>Sapo venenoso de banda amarela</Especie>
+        <Classe>Anfíbio</Classe>
+        <Dieta>Insectívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista7>
+    <Lista8>
+        <Especie>Lontra gigante</Especie>
+        <Classe>Mamífero</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Ameaçada</Status>
+    </Lista8>
+    <Lista9>
+        <Especie>Aranha-golias</Especie>
+        <Classe>Aracnídeo</Classe>
+        <Dieta>Carnívoro</Dieta>
+        <Status>Pouco preocupante</Status>
+    </Lista9>
+</Animais>

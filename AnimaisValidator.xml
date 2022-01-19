@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Animais">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="Lista1">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista2">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista3">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista4">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista5">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista6">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista7">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista8">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Lista9">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Especie" type="xs:string"/>
+                        <xs:element name="Classe" type="xs:string"/>
+                        <xs:element name="Dieta" type="xs:string"/>
+                        <xs:element name="Status" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+</xs:schema>
